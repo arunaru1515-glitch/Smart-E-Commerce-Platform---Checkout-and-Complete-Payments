@@ -1,0 +1,14 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+pymysql
+
+
+# Payment Gateway
+stripe
+
+# Environment Configuration
+python-dotenv
